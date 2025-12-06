@@ -1,6 +1,6 @@
 # PstRotatorFrqShortcuts
 
-AutoHotKey script for control of RX/TX doppler frequency in PstRotator
+AutoHotKey script for control of RX/TX doppler frequency in PstRotator.
 You need to install:
 - https://www.autohotkey.com/ and run this script via AutoHotKey
 - And of course you need PstRotator: https://www.qsl.net/yo3dmu/index_Page346.htm 
